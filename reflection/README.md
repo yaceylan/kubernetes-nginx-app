@@ -32,3 +32,14 @@ Dieses Projekt-Repository enthält die folgenden relevanten Dateien und Ordner:
 * `README.md`: Diese Datei, die die Aufgabe, den Deployment-Prozess und den Speicherort der Abgabe beschreibt.
 
 Das gesamte Projekt ist in diesem öffentlichen GitHub-Repository zu finden: https://github.com/yaceylan/kubernetes-nginx-app
+
+## Screenshots
+
+**Erstes Deployment (Version 1):**
+![Nginx Version 1](reflection/screenshots/nginx v1.png)
+
+**Nach dem Rolling Update (Version 2):**
+![Nginx Version 2](reflection/screenshots/nginx v2.png)
+
+**Nach dem Rollback (Version 1):**
+![Rollback Version 1](reflection/screenshots/back v1.png)
